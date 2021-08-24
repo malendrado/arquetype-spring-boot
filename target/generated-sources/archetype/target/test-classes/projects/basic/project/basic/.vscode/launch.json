@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringBootMicroserviceExampleApplication<demo1>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.cortesdev.SpringBootMicroserviceExampleApplication",
+            "projectName": "demo1",
+            "args": ""
+        }
+    ]
+}
